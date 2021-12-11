@@ -3,4 +3,5 @@ Paragraph
 Exciting Incident
 Dilemma
 Climax
+Twist
 Resolution
