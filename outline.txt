@@ -1,8 +1,10 @@
-Title
-Paragraph
-Exciting Incident
-Dilemma
-Chapter 2
+Introduction
+Inciting Incident
+Rising Action
+First Turning Point
+Midpoint
+Second Turning Point
 Climax
-Twist
-Resolution!
+Falling Action
+Resolution
+Epilogue
