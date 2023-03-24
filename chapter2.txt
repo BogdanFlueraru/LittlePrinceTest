@@ -2,7 +2,4 @@
 Chapter 2
 =========
 
-sdadsadas
-dasdsadsa
-
 This is a very big improvement.
